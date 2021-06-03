@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True intelligence from Ireland, relating hovv the rebels stole away 300. horse by night out of the fields neere Dublin, and have taken the Earle of Kildares chiefe house. VVherein was 100. of our men, ten killed, and 90. escapt to Dublin. VVith the conviction of the Earle of Castle-haven for high treason. Sent by the last post to a friend in London, by a worthy gentleman.</title>
+            <author>Worthy gentleman.</author>
+         </titleStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95055</idno><idno type="EEBO-CITATION">99865591</idno>
+  <idno type="VID">156801</idno>
+  <idno type="EEBO-PROQUEST">2240917530</idno>
+  
+            <idno type="STC">Wing T2709</idno>
+            <idno type="STC">Thomason E153_13</idno>
+            <idno type="STC">ESTC R20643</idno>
+            <idno type="PROQUEST">99865591</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865591e"/>
+            <note>(EEBO-TCP ; phase 2, no. A95055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156801)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E153[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True intelligence from Ireland, relating hovv the rebels stole away 300. horse by night out of the fields neere Dublin, and have taken the Earle of Kildares chiefe house. VVherein was 100. of our men, ten killed, and 90. escapt to Dublin. VVith the conviction of the Earle of Castle-haven for high treason. Sent by the last post to a friend in London, by a worthy gentleman.</title>
+                  <author>Worthy gentleman.</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Sweeting,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 30. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Castlehaven, James Touchet, --  Earl of, 1617?-1684 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156801:1"/>
+            <p> TRUE INTELLIGENCE FROM IRELAND, RELATING HOVV the Rebels stole away 300. Horse by night out of the fields neere <hi>Dublin,</hi> and have taken the Earle of <hi>Kildares</hi> chiefe house.</p>
+            <p>VVherein was 100. of our men, ten killed, and 90. escapt to DUBLIN.</p>
+            <p>VVith the conviction of the Earle of <hi>Castle-haven</hi> for high TREASON.</p>
+            <p>SENT BY THE LAST POST TO A friend in London, by a worthy Gentleman.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Sweeting, June</hi> 30. 1642.</p>
+            <pb facs="tcp:156801:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb n="1" facs="tcp:156801:2"/>
+            <head>TRUE INTELLIGENCE from Ireland, Relating many Passages of great consequence.</head>
+            <opener>
+               <dateline>
+                  <hi>Dublin,</hi>
+                  <date>
+                     <hi>June the</hi> 9. 1642.</date>
+               </dateline>
+            </opener>
+            <p>SIR <hi>Henry Titchborn</hi> with some Horse and Foote went to <hi>Dundalke</hi> that day that the Lord <hi>Digby</hi> was buried, foure Colonels bearing up his Hearse-cloath: Also that day newes that the Rebels out of the bogges had stolne away a great part of the Cattle from <hi>Dundalke.</hi>
+            </p>
+            <p>The tenth day at night the Rebels stole some Horses from us out of the fields neere to <hi>Dublin.</hi>
+            </p>
+            <pb n="2" facs="tcp:156801:3"/>
+            <p> The eleventh day Captaine <hi>Palmes</hi> dyed, a Captain of Horse of good note.</p>
+            <p>The twelfth day in the morning the Rebels on <hi>Wicklow</hi> side, being in number about 300. Horse and Foote, came from the Mountaines, and tooke from our City side about 300. Horse that were appointed for the Carriages to the Army that was to goe out within one day, this was much losse to us: about eight of the clock some Troopes were sent to recover some again if possible, but could not, so that the protected Papists Horse were brought in to serve the ne<g ref="char:EOLhyphen"/>cessities of the Army instead of those taken.</p>
+            <p>The thirteenth day newes came, that Cap<g ref="char:EOLhyphen"/>taine <hi>Grimes</hi> had with 200. men relieved <hi>Car<g ref="char:EOLhyphen"/>lew</hi> in despite of the Rebels that were 2000. Also that day our Horse went out, and brought in store of Cattle from the Rebels, about 600.</p>
+            <p>That day came to <hi>Dublin</hi> a messenger with a Drum from Sir <hi>Philem O Neale,</hi> from <hi>Charlia<g ref="char:EOLhyphen"/>mount</hi> with Letters, desiring to exchange the Lady <hi>Blany</hi> and her Children, for his Daugh<g ref="char:EOLhyphen"/>ter, who is with the State here, and it was gran<g ref="char:EOLhyphen"/>ted: The messenger boasted much of his Ma<g ref="char:EOLhyphen"/>sters strength, not to be beleeved.</p>
+            <pb n="3" facs="tcp:156801:3"/>
+            <p> The fourteenth day there went out more of our Army, about 5000. Horse and Foote, with eight field pieces under the Earle of <hi>Ormonds</hi> command, they marched towards Trim to the rest that went before, how much further they intend to march none knowes.</p>
+            <p>The fifteenth day, Marmouth, the Earle of <hi>Kildares</hi> chiefe house, some eight miles from Dublin, was that night either by craft or care<g ref="char:EOLhyphen"/>lesnesse of those that kept it, surprised by about 500. Rebels entring that vast house in the dead of the night, killed about 10. of ours, the rest being about 90. made away, and came to town, leaving all to the Rebels, who fired the house, and either burnt or carryed away all that was in it, things of good value.</p>
+            <p>Also this day a proclamation was published, that all protections granted to papists should be of no force after the 24. of this moneth, in regard of those that had them, having so falsly from time to time killed our men upon advan<g ref="char:EOLhyphen"/>tages (after many mischiefes committed, and much evill complaints) the State is sensible of the evill doings of them.</p>
+            <p>Also newes that the Earle of Antrem is taken in the North, and a guard set over him in his owne house.</p>
+            <pb n="4" facs="tcp:156801:4"/>
+            <p> Sir <hi>Richard Greenfield</hi> having intelligence of some Rebels at Lints-knock-Castle, about three miles distant from Trim, went before it with a considerable force, in which service the Rebels shewed themselves more desperate then formerly knowne, for so long as their powder did last, they fired upon our men, killed about 60. besides Officers which were shot, amongst which Lieutenant Colonell <hi>Kirk</hi> was shot in the back with a brace of Bullets, Captaine <hi>Lu<g ref="char:EOLhyphen"/>cas</hi> was shot in the arme, and in his thigh, three Lieutenants were slaine, yet our men pressing on with fury and revenge, the Rebels seeing all hopes to faile, fired the Castle about their own eares, and so consumed themselves and it toge<g ref="char:EOLhyphen"/>ther, their number not being above 80. of all degrees and sex.</p>
+            <p>The Earle of Castle-haven having had his tryall the eighteenth day of this moneth at the Kings Bench Barre, and was found guilty of high Treason, who is now at the Kings mercy in the Castle of <hi>Dublin.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Dublin</hi>
+                  <date>
+                     <hi>June</hi> 20, 1642.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:156801:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
